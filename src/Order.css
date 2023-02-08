@@ -1,0 +1,19 @@
+.order {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.orderId {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+}
+
+.price>button {
+    background: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    width: 100%;
+}
